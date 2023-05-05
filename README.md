@@ -4,7 +4,7 @@ Code to reproduce the results in paper "[Large-scale Stochastic Optimization of 
 
 ## Citation
 ```
-@inproceedings{zhu2022auc,
+@inproceedings{qiu2022large,
   title={Large-scale Stochastic Optimization of NDCG Surrogates for Deep Learning with Provable Convergence},
   author={Qiu, Zi-Hao and Hu, Quanqi and Zhong, Yongjian and Zhang, Lijun and Yang, Tianbao},
   booktitle={International Conference on Machine Learning},
